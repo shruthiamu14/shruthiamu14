@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruthiamu14" alt="shruthiamu14" /></a> </p>
 
-- 🔭 I’m currently working on [Web gis Project](https://gis-property.netlify.app/)
+- 🔭 I’m currently working on [Insync Interview Platform](https://insynceditor.azurewebsites.net/)
 
 - 🌱 I’m currently learning **typescript, Next.js**
 
